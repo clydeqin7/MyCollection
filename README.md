@@ -6,7 +6,7 @@
  3. [菜鸟开发教程](http://www.runoob.com/)
 
 ##--------- Android ---------
- 1. [Android编程规范](http://www.jianshu.com/p/fbf9ea4b9d76#rd)
+ 1. [谷歌安卓官方编码规范](http://source.android.com/source/code-style.html)</br>      [Android编程规范](http://www.jianshu.com/p/fbf9ea4b9d76#rd)
  2. [AS从零开始新项目](http://blog.zhaiyifan.cn/categories/Android-Project-From-0/)
  3. [Android标准APP四大自动化测试法宝](http://www.itnose.net/detail/6635946.html)
  4. [各种控件收集-泡在网上的日子](http://android.xsoftlab.net/index.html)
