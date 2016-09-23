@@ -18,6 +18,7 @@
  3. [仿UC浏览器首页滑动动画实现](http://ittiger.cn/2016/05/26/UC%E6%B5%8F%E8%A7%88%E5%99%A8%E9%A6%96%E9%A1%B5%E6%BB%91%E5%8A%A8%E5%8A%A8%E7%94%BB%E5%AE%9E%E7%8E%B0/)
  4. [Trinea](http://www.trinea.cn/)
  5. [Healtheon-多线程下载、日历etc](http://www.cnblogs.com/hanyonglu/archive/2012/02/20/2358801.html)
+ 6. [知道这20个正则表达式，能让你少写1,000行代码](http://www.jianshu.com/p/e7bb97218946)
  
 ##--------- Development tools ---------
 ### ---产品原型制作
