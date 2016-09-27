@@ -19,6 +19,8 @@
  4. [Trinea](http://www.trinea.cn/)
  5. [Healtheon-多线程下载、日历etc](http://www.cnblogs.com/hanyonglu/archive/2012/02/20/2358801.html)
  6. [知道这20个正则表达式，能让你少写1,000行代码](http://www.jianshu.com/p/e7bb97218946)
+ 7. [ORMLite框架使用精要](http://www.jianshu.com/p/05782b598cf0)
+ 
  
 ##--------- Development tools ---------
 ### ---产品原型制作
