@@ -10,6 +10,7 @@
  2. [AS从零开始新项目](http://blog.zhaiyifan.cn/categories/Android-Project-From-0/)
  3. [Android标准APP四大自动化测试法宝](http://www.itnose.net/detail/6635946.html)
  4. [Android,App 常用图标尺寸规范](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0120/2331.html)
+ 5. [腾讯Bugly](https://bugly.qq.com/v2/)
 
 ##------- AndroidXXX -------
 
