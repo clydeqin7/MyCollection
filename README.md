@@ -37,6 +37,7 @@
  4. [阿里巴巴矢量图标库](http://www.iconfont.cn/)
  5. [easyicon](http://www.easyicon.net/)
  6. [素材网站](https://www.pinterest.com/)
+ 7. [花瓣网--图片界面参考](http://huaban.com/)
 
 ### ---移动应用分发
  1. [fir.im](http://fir.im/)
