@@ -12,6 +12,7 @@
  4. [Android,App 常用图标尺寸规范](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0120/2331.html)
  5. [腾讯Bugly](https://bugly.qq.com/v2/)
  6. [360加固保](http://jiagu.360.cn/)
+ 7. [Android屏幕密度（Density）和分辨率概念详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1129/647.html)
 
 ##------- AndroidXXX -------
 
