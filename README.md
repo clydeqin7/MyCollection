@@ -1,5 +1,7 @@
 #---------- 我的收藏夹 ---------
 ##---------- 未命名 ----------
+### 工具使用指南
+- [精选！15 个必备的 VSCode 插件（前端类）](https://zhuanlan.zhihu.com/p/27905838)
 ### ---未命名
  1. [常用API在线文档](http://tool.oschina.net/apidocs)
  2. [Google官方帮助文档](http://android.xsoftlab.net/index.html)
